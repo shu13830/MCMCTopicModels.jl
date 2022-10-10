@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+MCMCTopicModels = "d42b0235-1209-46b5-89da-7c955bfbc8f0"
